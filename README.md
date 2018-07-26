@@ -1,2 +1,2 @@
-# RandomJava
-Random Java Practice Problems
+# DynamicProgProblems
+Random DynamicProg Java Practice Problems
